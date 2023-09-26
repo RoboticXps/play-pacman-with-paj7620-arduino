@@ -21,7 +21,7 @@ _Note_: Mentioned instructions below are applicable after building and wiring th
 
 1. Download all files from this repo. on your computer.
 2. Open `ArduinoCode` directory in Arduino IDE.
-3. Upload this code [`Gesture.ino`]('/ArduinoCode/Gesture.ino') on your Arduino board.
+3. Upload this code [`Gesture.ino`](/ArduinoCode/Gesture.ino) on your Arduino board.
 4. Run Python script [`serial-listener.py`](/serial-listener.py) on your computer.
 5. Open Pacman game and start playing using your hand.
 
